@@ -226,9 +226,7 @@ const GitProfile = ({ config }) => {
                         skeleton({ width: 'w-52', height: 'h-6' })
                       ) : (
                         <p className="font-mono text-sm">
-                          Made with{' '}
-                          <span className="text-primary">GitProfile</span> and
-                          ❤️
+                          All rights reserved &copy; Kyle Sin Lynn.
                         </p>
                       )}
                     </div>
